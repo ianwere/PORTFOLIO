@@ -34,3 +34,24 @@ body {
 #navbar a:hover {
     color: chocolate;
 }
+
+/* Landing page */
+#landing-page
+{
+    background-color: brown;
+    height: 130vh;
+    width: 100%;
+    margin: auto;
+   display: flex;
+   align-items: center;
+
+}
+#landing-page .column{
+    margin: auto;
+    width: 80%;
+    padding: 50px;
+
+}
+#landing-page img{
+    width: 100%;
+}
